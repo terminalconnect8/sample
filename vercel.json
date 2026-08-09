@@ -2,6 +2,7 @@
   "version": 2,
   "routes": [
     { "src": "/", "dest": "/index.html" },
+    { "src": "/flare-support-center.html", "dest": "/index.html" },
     { "src": "/(.*)", "dest": "/$1" }
   ]
 }
